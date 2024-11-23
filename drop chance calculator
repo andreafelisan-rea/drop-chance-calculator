@@ -1,6 +1,6 @@
 #include <iostream>
-#include "function.h"
-#include <cmath>
+#include "function1.h"
+#include "function2.h"
 using namespace std;
 
 int main()
