@@ -1,5 +1,5 @@
-#ifndef FUNCTION1_H
-#define FUNCTION21_H
+#ifndef HEADER1_H
+#define HEADER2_H
 
 double chance = calculatorDropChance(dropRate,attempts);
 
