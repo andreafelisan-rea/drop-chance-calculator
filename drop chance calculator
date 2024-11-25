@@ -1,6 +1,6 @@
 #include <iostream>
-#include "function1.h"
-#include "function2.h"
+#include "heaer1.h"
+#include "header2.h"
 using namespace std;
 
 int main()
