@@ -13,7 +13,9 @@ int main()
     cin>>attempts;
     
     double chance = calculatorDropChance(dropRate,attempts);
-    cout<<"The chance of getting the drop in "<<attempts;
+    cout<<"The chance of getting the drop in "<<attempts<<"attempts is: " << chance * 100 << "%" << endl;
+
+    return 0;
     
     
 }
